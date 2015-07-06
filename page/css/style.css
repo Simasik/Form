@@ -1,0 +1,30 @@
+body, html{
+  margin:0;
+  padding:0;
+}
+
+#left, #right{
+  background: #cecdcd;
+  width:200px;
+}
+#left{
+  float:left;
+}
+#right{
+  float:right;
+}
+#content{
+margin: 0 200px;
+}
+header{
+  background: #e3b7b7;
+  padding: 30px;
+}
+header h1{
+  margin: 0;
+}
+footer{
+  height:54px;
+  text-align: center;
+  background: #cb4b4b;
+}
